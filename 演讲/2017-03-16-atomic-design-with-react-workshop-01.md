@@ -7,7 +7,7 @@ speaker: Jimmy Lv
 transition: move
 highlightStyle: kimbie.light
 theme: green
-published: False
+published: True
 ---
 
 > `nodeppt start -w` by [ksky521/nodePPT](https://github.com/ksky521/nodePPT)
