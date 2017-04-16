@@ -204,4 +204,4 @@ GTD 的核心观点就是「在任何时候，都做到既高效又放松」，�
 - [互联网时代的时间管理实践 · Issue #102 · lifesinger/blog](https://github.com/lifesinger/blog/issues/102)
 - [David Allen's Getting Things Done® Methodology](http://gettingthingsdone.com/)
 
-![GTD Flow](http://7xjbdq.com1.z0.glb.clouddn.com/images/2017/04/1491614932473.png)
+![GTD Flow](https://o7mw3gkkh.qnssl.com/images/2017/04/1491614932473.png)
